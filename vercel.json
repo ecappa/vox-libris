@@ -3,7 +3,7 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "rewrites": [
-    { "source": "/api/ragflow/:path*", "destination": "/api/ragflow/:path*" },
+    { "source": "/api/ragflow/:path*", "destination": "/api/ragflow?path=:path*" },
     { "source": "/((?!api/).*)", "destination": "/index.html" }
   ]
 }
