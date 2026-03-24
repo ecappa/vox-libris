@@ -174,10 +174,10 @@
   }
 }
 
-@keyframes chunk-fade {
-  from { opacity: 0; filter: blur(2px); }
+@keyframes word-fade {
+  from { opacity: 0; filter: blur(0.8px); }
   to   { opacity: 1; filter: blur(0); }
 }
-.animate-chunk-fade {
-  animation: chunk-fade 0.35s ease-out both;
+.animate-word-fade {
+  animation: word-fade 0.3s ease-out both;
 }

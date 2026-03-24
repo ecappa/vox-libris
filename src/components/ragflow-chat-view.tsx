@@ -60,11 +60,23 @@ function newId() {
 /* ------------------------------------------------------------------ */
 
 function StreamingText({ deltas }: { deltas: string[] }) {
+  const words = React.useMemo(() => {
+    const result: { key: number; text: string }[] = []
+    let idx = 0
+    for (const delta of deltas) {
+      const tokens = delta.split(/(?<=\s)|(?=\s)/g)
+      for (const token of tokens) {
+        if (token) result.push({ key: idx++, text: token })
+      }
+    }
+    return result
+  }, [deltas])
+
   return (
     <>
-      {deltas.map((delta, i) => (
-        <span key={i} className="animate-chunk-fade">
-          {delta}
+      {words.map((w) => (
+        <span key={w.key} className="animate-word-fade">
+          {w.text}
         </span>
       ))}
     </>
