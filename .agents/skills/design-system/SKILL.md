@@ -9,10 +9,11 @@ Create practical, implementation-ready guidance that can be directly used by eng
 
 
 ## Style Foundations
-- Visual style: high-contrast, retro
-- Typography scale: desktop-first expressive scale | Fonts: primary=Macondo, display=Macondo, mono=JetBrains Mono | weights=100, 200, 300, 400, 500, 600, 700, 800, 900
-- Color palette: primary, neutral, success, warning, danger | Tokens: primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827
-- Spacing scale: 4/8/12/16/24/32
+- Visual style: Elegant Modern Retro / High-End Minimalist
+- Typography scale: Extreme contrast (massive tight-tracking display, small airy body) | Fonts: primary=Outfit (Sans), mono=JetBrains Mono
+- Color palette: Soft neutral backgrounds (`#F4F4F4`, `#EBEBEB`), deep slate foregrounds (`#111827`, `#27272A`), high contrast accents.
+- Spacing scale: generous padding globally, extremely tight spacing directly on display text.
+- Form factor: Elements are completely rounded (`rounded-full` pills) or simple clean boxes with no borders.
 
 ## Component Families
 - buttons
@@ -71,15 +72,14 @@ concise, confident, helpful
 - keep interaction states explicit
 
 ## Rules: Don't
-- avoid low contrast text
-- avoid inconsistent spacing rhythm
-- avoid ambiguous labels
+- avoid thick brutalist black borders
+- avoid quirky cursive fonts like Macondo for UI components
+- avoid generic default tailwind shadows (use none or very soft elegant dropshadows)
 
 ## Expected Behavior
-- Follow the foundations first, then component consistency.
-- When uncertain, prioritize accessibility and clarity over novelty.
-- Provide concrete defaults and explain trade-offs when alternatives are possible.
-- Keep guidance opinionated, concise, and implementation-focused.
+- Follow the elegant, minimalist aesthetic closely without clutter. Use `-tracking` heavily on huge `H1/H2` tags.
+- Buttons should be soft pill shapes (`rounded-full`) without thick borders, typically white or dark slate.
+- Maintain a lot of whitespace. Separate sections cleanly using thin gray vertical rules (`h-16 w-[2px] bg-zinc-300`).
 
 ## Guideline Authoring Workflow
 1. Restate the design intent in one sentence before proposing rules.

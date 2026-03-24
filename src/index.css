@@ -5,8 +5,8 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
-    --font-sans: "Inter", sans-serif;
-    --font-heading: "Inter", sans-serif;
+    --font-sans: "Outfit", sans-serif;
+    --font-heading: "Outfit", sans-serif;
     --font-mono: "JetBrains Mono", monospace;
     --color-sidebar-ring: var(--sidebar-ring);
     --color-sidebar-border: var(--sidebar-border);
@@ -55,10 +55,10 @@
     --card-foreground: #111827;
     --popover: #FFFFFF;
     --popover-foreground: #111827;
-    --primary: #1F2937;
-    --primary-foreground: #FFFFFF;
-    --secondary: #E5E7EB;
-    --secondary-foreground: #1F2937;
+    --primary: #18181B; /* Zinc-900 */
+    --primary-foreground: #FAFAFA; /* Zinc-50 */
+    --secondary: #E4E4E7; /* Zinc-200 */
+    --secondary-foreground: #18181B;
     --muted: #E5E7EB;
     --muted-foreground: #6B7280;
     --accent: #E5E7EB;
@@ -82,11 +82,11 @@
     --chart-5: #DC2626;
 
     /* Generous radius for cards representing the soft modern feel */
-    --radius: 1rem;
+    --radius: 1rem; /* soft corners for cards, buttons can be manually rounded-full if needed */
 
-    --sidebar: #FFFFFF;
-    --sidebar-foreground: #111827;
-    --sidebar-primary: #1F2937;
+    --sidebar: #f8f8f8;
+    --sidebar-foreground: #18181B;
+    --sidebar-primary: #18181B;
     --sidebar-primary-foreground: #FFFFFF;
     --sidebar-accent: #F9FAFB;
     --sidebar-accent-foreground: #111827;
@@ -142,14 +142,14 @@
     }
   body {
     /* Soft typography, elegant letter spacing */
-    @apply bg-background text-foreground font-sans tracking-tight antialiased;
+    @apply bg-background text-foreground font-sans antialiased text-[#3f3f46];
     }
   html {
     @apply font-sans;
     }
   
-  /* Additional overrides for massive bold neo-retro display if needed */
-  h1, h2, h3, h4, h5, h6 {
-    @apply tracking-tighter;
+  /* massive bold neo-retro display adjustments */
+  h1, h2 {
+    @apply tracking-tighter text-[#18181B];
   }
 }
