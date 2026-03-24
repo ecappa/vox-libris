@@ -132,6 +132,7 @@ export async function chatCompletionStream(
   const reader = res.body.getReader()
   const decoder = new TextDecoder()
   let buffer = ""
+  let prevAnswer = ""
 
   try {
     while (true) {
@@ -172,7 +173,12 @@ export async function chatCompletionStream(
         const d = msg.data
         if (d === true || d === undefined) continue
         if (typeof d.answer === "string" && d.answer.length > 0 && !d.final) {
-          handlers.onDelta(d.answer)
+          // RAGFlow sends cumulative text — extract the actual delta
+          const delta = d.answer.slice(prevAnswer.length)
+          prevAnswer = d.answer
+          if (delta.length > 0) {
+            handlers.onDelta(delta)
+          }
         }
         if (d.final === true) {
           handlers.onFinal(d.reference ?? null)

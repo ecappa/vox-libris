@@ -141,6 +141,7 @@ async function forwardToRagflow(
     res.setHeader("Cache-Control", "no-cache")
     res.setHeader("X-Accel-Buffering", "no")
     res.setHeader("X-Vox-Debug", trace.toHeaderValue())
+    res.flushHeaders()
     try {
       await pipeline(
         Readable.fromWeb(response.body as import("stream/web").ReadableStream),
