@@ -5,8 +5,10 @@
 import { createHmac, randomBytes, timingSafeEqual } from "node:crypto"
 
 export const SESSION_COOKIE_NAME = "vox_gateway"
+export const APP_GATE_COOKIE_NAME = "vox_app_gate"
 
 const SESSION_TTL_SEC = 60 * 60 * 24
+const APP_GATE_TTL_SEC = 60 * 60 * 24 * 7
 
 export type PublicAssistant = {
   id: string
@@ -33,6 +35,15 @@ export function getGatewaySecret(): string {
   return a || b || ""
 }
 
+/** Mot de passe d’accès à l’app (LLM). Vide = pas de barrière (comportement historique). */
+export function getAppAccessPassword(): string {
+  return process.env.VOX_APP_ACCESS_PASSWORD?.trim() ?? ""
+}
+
+export function isAppGateEnabled(): boolean {
+  return getAppAccessPassword().length > 0
+}
+
 export function issueSessionToken(secret: string): string {
   const payload = Buffer.from(
     JSON.stringify({
@@ -45,6 +56,50 @@ export function issueSessionToken(secret: string): string {
   ).toString("base64url")
   const sig = createHmac("sha256", secret).update(payload).digest("base64url")
   return `${payload}.${sig}`
+}
+
+export function issueAppGateToken(secret: string): string {
+  const payload = Buffer.from(
+    JSON.stringify({
+      v: 1,
+      typ: "gate",
+      exp: Math.floor(Date.now() / 1000) + APP_GATE_TTL_SEC,
+      iat: Math.floor(Date.now() / 1000),
+      jti: randomBytes(16).toString("hex"),
+    }),
+    "utf-8"
+  ).toString("base64url")
+  const sig = createHmac("sha256", secret).update(payload).digest("base64url")
+  return `${payload}.${sig}`
+}
+
+export function verifyAppGateToken(
+  token: string | undefined,
+  secret: string
+): boolean {
+  if (!secret || !token?.includes(".")) return false
+  const dot = token.lastIndexOf(".")
+  const payload = token.slice(0, dot)
+  const sig = token.slice(dot + 1)
+  if (!payload || !sig) return false
+  const expected = createHmac("sha256", secret).update(payload).digest("base64url")
+  try {
+    if (expected.length !== sig.length) return false
+    if (!timingSafeEqual(Buffer.from(expected), Buffer.from(sig))) return false
+  } catch {
+    return false
+  }
+  try {
+    const body = JSON.parse(
+      Buffer.from(payload, "base64url").toString("utf-8")
+    ) as { exp?: number; typ?: string }
+    if (body.typ !== "gate") return false
+    if (typeof body.exp !== "number") return false
+    if (body.exp < Math.floor(Date.now() / 1000)) return false
+    return true
+  } catch {
+    return false
+  }
 }
 
 export function verifySessionToken(
@@ -154,6 +209,45 @@ export function buildSessionSetCookieHeader(
     "HttpOnly",
     "SameSite=Lax",
     `Max-Age=${SESSION_TTL_SEC}`,
+  ]
+  if (secure) parts.push("Secure")
+  return parts.join("; ")
+}
+
+export function buildAppGateSetCookieHeader(
+  token: string,
+  secure: boolean
+): string {
+  const parts = [
+    `${APP_GATE_COOKIE_NAME}=${token}`,
+    "Path=/",
+    "HttpOnly",
+    "SameSite=Lax",
+    `Max-Age=${APP_GATE_TTL_SEC}`,
+  ]
+  if (secure) parts.push("Secure")
+  return parts.join("; ")
+}
+
+export function buildAppGateClearCookieHeader(secure: boolean): string {
+  const parts = [
+    `${APP_GATE_COOKIE_NAME}=`,
+    "Path=/",
+    "HttpOnly",
+    "SameSite=Lax",
+    "Max-Age=0",
+  ]
+  if (secure) parts.push("Secure")
+  return parts.join("; ")
+}
+
+export function buildSessionClearCookieHeader(secure: boolean): string {
+  const parts = [
+    `${SESSION_COOKIE_NAME}=`,
+    "Path=/",
+    "HttpOnly",
+    "SameSite=Lax",
+    "Max-Age=0",
   ]
   if (secure) parts.push("Secure")
   return parts.join("; ")

@@ -9,6 +9,7 @@ import {
   ChevronDownIcon,
   XIcon,
   BookOpenIcon,
+  ExternalLinkIcon,
 } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
@@ -26,6 +27,7 @@ import { cn } from "@/lib/utils"
 import { resolvePresetForChatId } from "@/lib/vox-public-config"
 import { corpusWorkOptionsForAuthor } from "@/lib/corpus-works"
 import { getAuthorById } from "@/lib/authors"
+import { getVictorHugoWorkReference } from "@/lib/hugo-work-reference"
 import {
   chatCompletionStream,
   chunkDocumentLabel,
@@ -313,6 +315,11 @@ export function RagflowChatView({
     [authorId]
   )
   const authorName = getAuthorById(authorId)?.name ?? "Auteur"
+
+  const hugoWorkRef =
+    authorId === "victor-hugo" && selectedWorkSlug
+      ? getVictorHugoWorkReference(selectedWorkSlug)
+      : undefined
 
   React.useEffect(() => {
     const el = scrollRef.current
@@ -618,6 +625,66 @@ export function RagflowChatView({
                 ))}
               </SelectContent>
             </Select>
+            {hugoWorkRef && (
+              <aside className="mt-3 rounded-2xl border border-border bg-card/80 p-4 shadow-sm">
+                <div className="flex flex-col gap-4 sm:flex-row sm:items-start">
+                  {hugoWorkRef.coverImageUrl ? (
+                    <div className="mx-auto shrink-0 overflow-hidden rounded-xl border border-border/60 bg-muted/30 sm:mx-0">
+                      <img
+                        src={hugoWorkRef.coverImageUrl}
+                        alt=""
+                        width={132}
+                        height={176}
+                        className="mx-auto block max-h-44 w-auto max-w-[132px] object-contain"
+                        loading="lazy"
+                        decoding="async"
+                        referrerPolicy="no-referrer"
+                      />
+                    </div>
+                  ) : null}
+                  <div className="min-w-0 flex-1 space-y-2">
+                    <div className="flex flex-wrap items-baseline gap-x-2 gap-y-1">
+                      <p
+                        className="text-sm font-medium text-foreground"
+                        style={{ fontFamily: "var(--font-heading)" }}
+                      >
+                        {hugoWorkRef.titre}
+                      </p>
+                      <span className="text-[11px] text-muted-foreground">
+                        {hugoWorkRef.kind === "roman"
+                          ? "Roman"
+                          : hugoWorkRef.kind === "récit"
+                            ? "Récit"
+                            : "Nouvelle"}{" "}
+                        · 1re éd. {hugoWorkRef.premierePublication}
+                      </span>
+                    </div>
+                    <p className="text-[11px] leading-snug text-muted-foreground">
+                      <span className="font-medium text-foreground/80">
+                        Rédaction (repères) :{" "}
+                      </span>
+                      {hugoWorkRef.periodeEcriture}
+                    </p>
+                    <p className="text-sm leading-relaxed text-card-foreground/90">
+                      {hugoWorkRef.resume}
+                    </p>
+                    <a
+                      href={hugoWorkRef.wikipediaUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-1 text-xs font-medium text-primary underline-offset-4 hover:underline"
+                    >
+                      Article Wikipédia (sources)
+                      <ExternalLinkIcon className="size-3" aria-hidden />
+                    </a>
+                    <p className="text-[10px] leading-snug text-muted-foreground/80">
+                      Synthèse à partir de Wikipédia (CC BY-SA) ; les images
+                      proviennent de Wikimedia Commons lorsque indiqué.
+                    </p>
+                  </div>
+                </div>
+              </aside>
+            )}
           </div>
         </div>
       </div>

@@ -5,13 +5,20 @@ import { pipeline } from "node:stream/promises"
 import type { IncomingMessage, ServerResponse } from "node:http"
 import type { Plugin } from "vite"
 
+import { timingSafeEqual } from "node:crypto"
 import {
+  APP_GATE_COOKIE_NAME,
+  buildAppGateClearCookieHeader,
+  buildAppGateSetCookieHeader,
+  buildSessionClearCookieHeader,
   buildSessionSetCookieHeader,
   getPublicAssistants,
   isAllowedRagflowProxy,
+  issueAppGateToken,
   issueSessionToken,
   parseCookieHeader,
   SESSION_COOKIE_NAME,
+  verifyAppGateToken,
   verifySessionToken,
 } from "../../api/_lib/ragflow-gateway"
 import { RequestTrace } from "../../api/_lib/trace"
@@ -51,6 +58,25 @@ function resolveGatewaySecretForVite(): string {
     loadEnvLine("RAGFLOW_ADMIN_API_KEY") ||
     ""
   )
+}
+
+function resolveAppAccessPasswordForVite(): string {
+  return (
+    process.env.VOX_APP_ACCESS_PASSWORD?.trim() ||
+    loadEnvLine("VOX_APP_ACCESS_PASSWORD") ||
+    ""
+  )
+}
+
+function appPasswordOkLocal(expected: string, given: string): boolean {
+  const a = Buffer.from(expected, "utf8")
+  const b = Buffer.from(given, "utf8")
+  if (a.length !== b.length) return false
+  try {
+    return timingSafeEqual(a, b)
+  } catch {
+    return false
+  }
 }
 
 function readRequestBody(req: IncomingMessage): Promise<Buffer> {
@@ -201,6 +227,75 @@ export function voxBackendGateway(): Plugin {
 
       server.middlewares.use(async (req, res, next) => {
         const basePath = pathnameOnly(req.url)
+        const appAccessPwd = resolveAppAccessPasswordForVite()
+
+        if (basePath === "/api/vox/login" && req.method === "POST") {
+          const trace = new RequestTrace("POST /api/vox/login")
+          if (!appAccessPwd) {
+            trace.log("VOX_APP_ACCESS_PASSWORD: not set")
+            return sendJsonDev(
+              res,
+              400,
+              { error: "App password not configured on server" },
+              trace
+            )
+          }
+          if (!gatewaySecret) {
+            trace.log("gateway secret: MISSING")
+            return sendJsonDev(res, 500, {
+              error: "Gateway misconfigured",
+              detail:
+                "Définir RAGFLOW_ADMIN_API_KEY ou VOX_GATEWAY_SECRET dans .env.local",
+            }, trace)
+          }
+          let raw: Uint8Array
+          try {
+            raw = new Uint8Array(await readRequestBody(req))
+            trace.log(`body: ${raw.length} bytes`)
+          } catch (err) {
+            trace.log(`body read error: ${err}`)
+            return sendJsonDev(res, 413, {
+              error: "Request body too large",
+              detail: String(err),
+            }, trace)
+          }
+          let given: string | undefined
+          try {
+            const obj = JSON.parse(Buffer.from(raw).toString("utf-8")) as unknown
+            given =
+              obj &&
+              typeof obj === "object" &&
+              typeof (obj as { password?: unknown }).password === "string"
+                ? (obj as { password: string }).password
+                : undefined
+          } catch {
+            given = undefined
+          }
+          trace.log(`password field: ${given != null ? "present" : "missing"}`)
+          if (given == null || !appPasswordOkLocal(appAccessPwd, given)) {
+            trace.log("login: denied")
+            return sendJsonDev(res, 401, { error: "Invalid password" }, trace)
+          }
+          const gateTok = issueAppGateToken(gatewaySecret)
+          trace.log("app gate cookie issued")
+          res.setHeader(
+            "Set-Cookie",
+            buildAppGateSetCookieHeader(gateTok, false)
+          )
+          res.setHeader("Cache-Control", "no-store")
+          return sendJsonDev(res, 200, { ok: true }, trace)
+        }
+
+        if (basePath === "/api/vox/logout" && req.method === "POST") {
+          const trace = new RequestTrace("POST /api/vox/logout")
+          trace.log("clear session cookies")
+          res.setHeader("Set-Cookie", [
+            buildAppGateClearCookieHeader(false),
+            buildSessionClearCookieHeader(false),
+          ])
+          res.setHeader("Cache-Control", "no-store")
+          return sendJsonDev(res, 200, { ok: true }, trace)
+        }
 
         if (basePath === "/api/session" && req.method === "GET") {
           const trace = new RequestTrace(`GET /api/session`)
@@ -215,6 +310,27 @@ export function voxBackendGateway(): Plugin {
           }
 
           trace.log("gateway secret: OK")
+          if (appAccessPwd) {
+            const gateTok = parseCookieHeader(
+              req.headers.cookie,
+              APP_GATE_COOKIE_NAME
+            )
+            const gateOk = verifyAppGateToken(gateTok, gatewaySecret)
+            trace.log(`app gate: ${gateOk ? "valid" : "required"}`)
+            if (!gateOk) {
+              res.setHeader("Cache-Control", "no-store")
+              return sendJsonDev(
+                res,
+                401,
+                {
+                  error: "App login required",
+                  code: "APP_GATE",
+                },
+                trace
+              )
+            }
+          }
+
           const token = issueSessionToken(gatewaySecret)
           trace.log("session token issued")
           res.setHeader(
